@@ -9,7 +9,7 @@ tensorboard 2.2.2(optional)
 # Usage
 
 ```bash
-git clone https://github.com/weiaicunzai/pytorch-cifar100.git
+git clone https://github.com/UestcJay/cifar10_cifar100_pytorch.git
 ```
 ## 1. enter directory
 
