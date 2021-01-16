@@ -23,10 +23,10 @@ you can use cifar100 and cifar10 dataset from torchvision directly as in the cod
 
 
 ```bash
-$ pip install tensorboard
-$ mkdir runs
+pip install tensorboard
+mkdir runs
 Run tensorboard
-$ tensorboard --logdir='runs' --port=6006 --host='localhost'
+tensorboard --logdir='runs' --port=6006 --host='localhost'
 ```
 ## 4.train the model
 
