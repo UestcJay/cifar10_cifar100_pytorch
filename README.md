@@ -1,5 +1,5 @@
 # cifar10_cifar100_pytorch
-Practice on cifi10 and cifar100(ResNet, Mobilenet,Mobilenetv2) ,there will be more.
+Practice on cifi10 and cifar100(Vgg, ResNet, ResNeXt, Mobilenet, Mobilenetv2) ,there will be more.
 # Requirements
 This is my experiment eviroument
 
